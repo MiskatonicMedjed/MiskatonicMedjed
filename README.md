@@ -6,7 +6,7 @@
 ### <div align="center">I'm Francis, a full-time full-stack developer from Brazil.</div>  
   
 
-- 🔭 I’m currently working on TBD  
+- 🔭 I’m currently working on yet another discord music bot...  
   
 
 - 🌱 I’m currently learning Assembly (x86) and Java.  
