@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MVC architecture and Laravel's Eloquent ORM.  
   
 
-- ⚡ Fun fact: I forced myself to learn Vim through vimtutor when I was first learning about cybersecurity, and have used its' keybinds ever since.  
+- ⚡ Fun fact: I use Vim's keybinds more often than I'd like to admin...
   
 
 <br/>  
